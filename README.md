@@ -9,9 +9,9 @@ Built my own profile webpage from the ground up. Utiliezed tools and knowledge o
 
 
 
-[Horiseon Website](https://esbev.github.io/challenge-week-1/)
+[My Awesome Profile](https://eveykins86.github.io/MyAwesomeProfile/)
 
-[![name](assets/images/horiseon.jpg)](https://esbev.github.io/challenge-week-1/)
+[![name](assets/img/MyWebPage.png)](https://eveykins86.github.io/MyAwesomeProfile/)
 
 
 ## License
