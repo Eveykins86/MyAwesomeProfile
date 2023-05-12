@@ -226,7 +226,8 @@ h2{
 
 .cards{
     display: flex;
-    justify-content:center;
+    flex-wrap: wrap;
+    justify-content: center;
 }
 
 .image{
@@ -237,6 +238,7 @@ h2{
 }
 
 .comingsoon1{
+    display: flex;
     margin: 11px;
 }
 
@@ -257,6 +259,7 @@ justify-content: flex-end;
 
 .contact{
     display: flex;
+    flex-wrap: wrap;
     align-items: center;
     gap: 2rem;
 }
