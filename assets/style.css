@@ -164,6 +164,13 @@ body {
     margin: 0;
 }
 
+.Avatar {
+    position: absolute;
+    top: 157px;
+    left: 24px;
+    width: 7%;
+}
+
 .hero {
     background-color: var(--clr-bacgroundimg);
     background-image: url("./img/peaceful-water-landscape-photo-m.jpg");
@@ -208,12 +215,13 @@ nav li a:hover{
 }
 
 .About{
-    display: flex;
+    display: block;
 }
 
 h2{
-    display: block;
+    display: flex;
     text-decoration: underline;
+    justify-content: flex-start;
 }
 
 .cards{
@@ -222,7 +230,7 @@ h2{
 }
 
 .image{
-    width: 60%;
+    width: 63%;
     display: block;
     margin: auto;
     background-color: var(--clr-bacgroundimg);

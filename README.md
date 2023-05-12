@@ -5,13 +5,15 @@ Built my own profile webpage from the ground up. Utiliezed tools and knowledge o
 
 ## Website Preview
 
-
-
-
-
 [My Awesome Profile](https://eveykins86.github.io/MyAwesomeProfile/)
 
 [![name](assets/img/MyWebPage.png)](https://eveykins86.github.io/MyAwesomeProfile/)
+
+## Links
+
+GitHub: (https://github.com/Eveykins86/MyAwesomeProfile)
+
+Website: (https://eveykins86.github.io/MyAwesomeProfile/)
 
 
 ## License
