@@ -164,19 +164,17 @@ body {
     margin: 0;
 }
 
-.Avatar {
-    position: absolute;
-    top: 157px;
-    left: 24px;
-    width: 7%;
-}
-
 .hero {
     background-color: var(--clr-bacgroundimg);
     background-image: url("./img/peaceful-water-landscape-photo-m.jpg");
     padding-top: 75px;
     padding-bottom: 100px;
     background-size: cover;
+}
+
+.Avatar {
+    position: static;
+    width: 6em;
 }
 
 header{
